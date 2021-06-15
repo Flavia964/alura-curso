@@ -1,2 +1,2 @@
 # alura-curso
-Exercícios curso Alura.
+Primeiros passos com a linguagem JS.
