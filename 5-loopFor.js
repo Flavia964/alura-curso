@@ -10,7 +10,8 @@ console.log(listaDeDestinos);
 const idadeDoComprador = 19;
 const estaAcompanhado = false;
 let temPassagemComprada = false;
-const destino = "Salvador"
+const destino = 
+"Salvador"
 
 const podeComprar = idadeDoComprador >=18 || estaAcompanhado === true;
 
